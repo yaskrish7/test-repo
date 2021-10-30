@@ -4,7 +4,7 @@ print("mounica")
 
 
 
-def summ(x):
-        print(x+100)
+def summ(y):
+        print(y+100)
 
 summ(20)
